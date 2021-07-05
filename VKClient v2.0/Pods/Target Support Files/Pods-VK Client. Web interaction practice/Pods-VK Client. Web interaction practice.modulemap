@@ -1,0 +1,6 @@
+framework module Pods_VK_Client__Web_interaction_practice {
+  umbrella header "Pods-VK Client. Web interaction practice-umbrella.h"
+
+  export *
+  module * { export * }
+}
